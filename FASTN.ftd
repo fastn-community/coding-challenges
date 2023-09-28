@@ -17,14 +17,14 @@ favicon: /-/fastn-community.github.io/coding-challenges/favicon.ico
 # Home: index.html
 
 - Product Preview Card: /challenge-1/
-document: /product-preview-card-component/
+document: /product-preview-card-component/index.ftd
 - Interactive Rating: /challenge-2/
-document: /interactive-rating-component/
+document: /interactive-rating-component/index.ftd
 - Profile Card: /challenge-3/
-document: /profile-card-component/
+document: /profile-card-component/index.ftd
 - Order Summary: /challenge-4/
-document: /order-summary-component/
+document: /order-summary-component/index.ftd
 - FAQ Accordion: /challenge-5/
-document: /faq-accordion-card/
+document: /faq-accordion-card/index.ftd
 
 
