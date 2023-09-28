@@ -16,4 +16,15 @@ favicon: /-/fastn-community.github.io/coding-challenges/favicon.ico
 
 # Home: index.html
 
-- Right Sidebar Sample: /sidebar/
+- Product Preview Card: /challenge-1/
+document: /product-preview-card-component/
+- Interactive Rating: /challenge-2/
+document: /interactive-rating-component/
+- Profile Card: /challenge-3/
+document: /profile-card-component/
+- Order Summary: /challenge-4/
+document: /order-summary-component/
+- FAQ Accordion: /challenge-5/
+document: /faq-accordion-card/
+
+
