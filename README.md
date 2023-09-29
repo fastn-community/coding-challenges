@@ -1,5 +1,11 @@
 # `fastn` coding challenges
 
+- [Product Preview Card](product-preview-card-component/README.md)
+- [Interactive Rating](interactive-rating-component/README.md)
+- [Profile Card](profile-card-component/README.md)
+- [Order Summary](order-summary-component/README.md)
+- [FAQ Accordion](faq-accordion-card/README.md)
+
 
 ## Become a fastn-trailblazer
 
